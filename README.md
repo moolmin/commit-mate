@@ -11,7 +11,7 @@
 커밋 / 이슈 데이터를 통해 팀의 개발 활동을 실시간으로 파악할 수 있어요.<br /><br />
 * [프론트엔드 레포지토리 바로가기](https://github.com/MENTAL-404/commit-mate-fe)
 * [백엔드 레포지토리 바로가기](https://github.com/MENTAL-404/commit-mate-be)
-
+<br/>
 
 ## 🕹️ Main Feature
 |💻 PC |📱 Mobile|
@@ -39,7 +39,7 @@
 
  ![image](https://github.com/user-attachments/assets/7d645114-bca8-4203-96a0-18906789d31c) |![image](https://github.com/user-attachments/assets/21f8fc48-fe3b-46a0-a9a1-8ef375b25f80)
 --- | --- | 
-
+<br/>
 
 ## 🛠️ Getting Started
 ### Installation
@@ -55,8 +55,12 @@
    ```sh
    yarn dev
    ```
+   <br/>
+## 🌐 Architecture
+![commitmate_architecture](https://github.com/user-attachments/assets/319942ad-d701-494b-b666-a454a666e5b7)
+<br/>
 
-## 👨‍👩‍👧‍👦 Developer
+## 🛋️ Developers
 *  **김지홍** ([JiHongKim98](https://github.com/JiHongKim98)): DevOps
 *  **정민성** ([BenchPress200](https://github.com/BenchPress200)): BE
 *  **박준서** ([junseoparkk](https://github.com/junseoparkk)): BE
